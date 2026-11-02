@@ -140,6 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GitSpace.cpp" />
+    <ClCompile Include="User.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LoginService.txt" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
