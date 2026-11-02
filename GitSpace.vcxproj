@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8a421c59-9f80-41e9-a9ae-e26fa3317b00}</ProjectGuid>
+    <ProjectGuid>{6CDECC65-9BEE-3B67-496A-9F1028321FAA}</ProjectGuid>
     <RootNamespace>GitSpace</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GitSpace.cpp" />
+    <ClCompile Include="SumClass.cpp" />
     <ClCompile Include="User.txt" />
   </ItemGroup>
   <ItemGroup>
